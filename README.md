@@ -1,0 +1,1 @@
+# aplicacao-de-data-science-em-um-sistema-de-producao-de-pneus-
